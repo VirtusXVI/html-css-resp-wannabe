@@ -158,7 +158,9 @@ img {
     }
     h1 , h2{
         text-align: center;
-        width: 480px;
+    }
+    .steps .text{
+        margin-bottom: 100px;
     }
     .steps .col{
         width: 100%;
